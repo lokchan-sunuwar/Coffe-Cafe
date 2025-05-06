@@ -29,3 +29,4 @@ To run this project locally on your machine, follow these steps:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/your-username/coffee-cafe-website.git
+   (https://github.com/lokchan-sunuwar/Coffe-Cafe.git)
